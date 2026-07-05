@@ -5,6 +5,7 @@ A simple version of the classic Space Invaders game, implemented in Python.
 ## Requirements
 
 - Python 3.8 or higher
+- Pygame 2.0.1
 
 ## Installation
 
